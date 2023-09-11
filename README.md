@@ -6,3 +6,5 @@ When I got the *30 Days of Pandas* badge and *Top SQL 50* badge, I found my moti
 
 ## How do I find these questions and practice?
 Go to [LeetCode](https://leetcode.com/) and click the Database button. Or just use this [link](https://leetcode.com/problemset/database/).
+
+## 
