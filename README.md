@@ -3,7 +3,7 @@ All Database questions' solutions in LeedCode (except for those who need subscri
 
 If you'd like to you can check [my LeetCode profile](https://leetcode.com/udklover/).
 
-> This Repo Last Update on Sep 11 2023
+> Last Update on Sep 11 2023
 ## Content
 - [Abstract](#abstract)
 - [How do I find these questions and practice?](#how-do-i-find-these-questions-and-practice)
