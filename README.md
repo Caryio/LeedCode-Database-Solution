@@ -1,5 +1,6 @@
 # LeedCode Database Questions' Solutions
 All Database questions' solutions in LeedCode (except for those who need subscription)
+
 力扣所有数据库相关题目的答案
 
 If you'd like to you can check [my LeetCode profile](https://leetcode.com/udklover/).
