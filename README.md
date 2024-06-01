@@ -1,9 +1,10 @@
 # LeedCode Database Questions' Solutions
 All Database questions' solutions in LeedCode (except for those who need subscription)
+力扣所有数据库相关题目的答案
 
 If you'd like to you can check [my LeetCode profile](https://leetcode.com/udklover/).
 
-> Last Update on Sep 11 2023
+> Last Update on Jun 2 2024
 ## Content
 - [Abstract](#abstract)
 - [How do I find these questions and practice?](#how-do-i-find-these-questions-and-practice)
